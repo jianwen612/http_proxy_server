@@ -1,0 +1,13 @@
+<font size='35px' color='#70DB93'>
+"We should pay more attention to the security of the Internet!"
+<br>
+---Proferssor Yang</font>
+<br>
+
+<img style='HEIGHT: 164px; WIDTH: 120px border-radius:100px' src='http://cs.scu.edu.cn/cs/rootimages/2016/06/18/1325640777042231-1465693069489485.jpg'>
+<div onclick="alert('Thanks for upvote!')">
+<img style='height:64px;width:64px' src='https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1948472672,2306228309&fm=27&gp=0.jpg'>
+<br>
+<a>upvote</a>
+</div>
+
