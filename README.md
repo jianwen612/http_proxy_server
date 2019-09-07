@@ -1,6 +1,6 @@
 # python http_proxy_server
 ### Completed in Sichuan University by Jianwen Dong
-### **Node: All the videos below are parts of my undergraduate presentation in Chinese language.**
+### **Node: All the videos below are parts of my undergraduate presentation in Chinese language. Documents are also in Chinese language.**
 The presentation tried visiting websites from firefox inside Ubuntu virtual machine. Proxy is running on Windows.
 
 ## presentation on running normally
